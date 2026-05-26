@@ -1,0 +1,19 @@
+{
+  "name": "ironworker-pro",
+  "version": "1.5.0",
+  "description": "IronWorker Pro - Field Welding Guide by Antonio Pebworth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Antonio Pebworth",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@capacitor/android": "^8.3.4",
+    "@capacitor/cli": "^8.3.4",
+    "@capacitor/core": "^8.3.4",
+    "@capacitor/ios": "^8.3.4"
+  },
+  "private": true
+}

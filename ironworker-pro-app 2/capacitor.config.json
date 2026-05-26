@@ -1,0 +1,8 @@
+{
+  "appId": "com.antoniopebworth.ironworkerpro",
+  "appName": "IronWorker Pro",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
